@@ -1,0 +1,39 @@
+Capecitabine and Radiation Therapy With or Without Panitumumab in Treating Patients With Advanced Rectal Cancer 
+      RATIONALE: Drugs used in chemotherapy, such as capecitabine, work in different ways to stop
+      the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+      Giving radiation therapy that uses a 3-dimensional (3-D) image of the tumor to help focus
+      thin beams of radiation directly on the tumor, and giving radiation therapy in higher doses
+      over a shorter period of time, may kill more tumor cells and have fewer side effects.
+      Monoclonal antibodies, such as panitumumab, can block tumor growth in different ways. Some
+      block the ability of tumor cells to grow and spread. Others find tumor cells and help kill
+      them or carry tumor-killing substances to them. It is not yet known whether giving
+      capecitabine together with 3-D conformal radiation therapy is more effective with or without
+      panitumumab in treating patients with advanced rectal cancer.
+
+      PURPOSE: This randomized phase II trial is studying giving capecitabine together with
+      radiation therapy to see how well it works with or without panitumumab in treating patients
+      with advanced rectal cancer.
+     
+      OBJECTIVES:
+
+        -  To assess the efficacy and safety of neoadjuvant capecitabine and concurrent
+           3-dimensional conformal radiotherapy with vs without panitumumab in patients with
+           advanced K-ras unmutated rectal cancer.
+
+      OUTLINE: This is a multicenter study. Patients are stratified according to participating
+      center, T stage (T3 vs T4), tumor localization measured from caudal part of the tumor to the
+      anocutaneous line (< 10 cm vs ≥ 10 cm), and number of EGFR gene copies (< 2.9 vs ≥ 2.9).
+      Patients are randomized to 1 of 2 treatment arms.
+
+        -  Arm I: Patients receive panitumumab IV over 30-90 minutes on days 1, 15, 29, 43, and 57
+           and oral capecitabine twice daily on days 8-40. Beginning on day 8, patients undergo
+           daily fractions of 3-D conformal radiotherapy 5 days a week for 5 weeks. Beginning
+           approximately 6 weeks after completion of panitumumab and chemoradiotherapy, patients
+           undergo surgery.
+
+        -  Arm II: Patients receive oral capecitabine twice daily on days 1-33. Patients undergo
+           concurrent 3-D conformal radiotherapy 5 days a week for 5 weeks. Beginning 6 weeks after
+           completion of chemoradiotherapy, patients undergo surgery.
+
+      After completion of study therapy, patients are followed periodically for up to 3 years.
+     Colorectal Cancer

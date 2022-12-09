@@ -1,0 +1,31 @@
+Development of Pharmacogenomic Method to Predict Antidepressant Responsiveness 
+      The Purpose of this study is to predict antidepressant response in advance using
+      pharmacogenomics and peripheral biological markers in depressed patients.
+     
+      The difficulties to treat depressed patients are 1)the patients don't respond to
+      antidepressant is about 40% of which, and 2) The time lag is existed until the patients
+      respond to antidepressant and show the treatment effects.
+
+      If it is predicted the response of antidepressant in advance, it would be overcome such
+      problems. Drug response generally is known to be related to the individual genetic
+      information and the environmental factors. We are going to investigation about antidepressant
+      response using these approaches.
+     Depression :
+
+          1. 25 < age <85
+
+          2. major depressed patients satisfied with the diagnosis criteria depression of DSM-IV
+
+          3. interview with one more patient's family member for objective diagnosis and final
+             diagnosis decision by agreements of two more psychiatric physicians
+
+         :
+
+          1. received psychotropic medication within 2 weeks of the study or fluoxetine within 4
+             weeks
+
+          2. potential study participants for pregnancy, significant medical conditions, abnormal
+             laboratory baseline values, unstable psychiatric features(eg.suicidal), history of
+             alcohol of drug dependence, seizures, head trauma with loss of consciousness,
+             neurological illness, or concomitant Axis I psychiatric disorder.
+      

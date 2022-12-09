@@ -1,0 +1,78 @@
+Myeloablative Allogeneic Stem Cell Transplantation Using a Naive T-Cell Depleted Peripheral Blood Stem Cell Graft 
+      The primary objectives will be to measure the safety and efficacy of allogeneic stem cell
+      transplantation using a peripheral blood stem cell graft that has been depleted of CD45RA+
+      Naive T-cells.
+
+      The secondary objectives will be to measure the pace of immune recovery.
+     
+      A cohort of patients (Cohort 1) will be enrolled to receive the currently accepted standard
+      approach to myeloablative allogeneic stem cell transplantation. With the exception of volume
+      and/or plasma depletion (in cases of donor/recipient ABO incompatibility), the peripheral
+      blood stem cell graft will be unmodified. The primary purpose of Cohort 1 is to prospectively
+      collect samples for measurement of immune recovery from a relatively homogeneous population
+      of patients treated in a uniform manner. Within the limitations of age-matching, patients
+      accrued to Cohort 1 will be incorporated into a larger retrospective historical control group
+      for purposes of comparison with Cohort 2 of the incidence of grade II-IV acute Graft versus
+      Host disease. The experimental aspects of this trial will be the use of a naïve T-cell
+      depleted peripheral blood stem cell graft (Cohort 2). All other aspects of this stem cell
+      transplantation are in line with the standard of care. Recruitment to this trial will be
+      stratified by donor type as matched sibling or matched unrelated donor. Patients will be
+      conditioned with total body irradiation (1350cGy) and Cyclophosphamide. The donor stem cell
+      grafts will come from mobilized peripheral blood of 6/6 HLA-identical family members or 8/8
+      (HLA A, B, C, DRB1) allele-level matched unrelated donors.
+     ALL :
+
+          -  Age 18 to 65 years.
+
+          -  8/8 or 7/8 HLA-identical matched sibling OR Allele level 8/8 (HLA-A, B, C, DRbeta1)
+             matched unrelated donor.
+
+          -  Patients with high risk ALL in first complete remission, with high risk being defined
+             by the presence of t(4;11), t(9;22) or t(1;19) or patients presenting with extreme
+             hyperleukocytosis (WBC>500,000/ml) or partial remission after initial induction
+             therapy.
+
+          -  Adult patients with acute non-lymphocytic Leukemia (ANLL) in first complete remission
+             with high-risk cytogenetics (monosomy chromosome 5 or 7, del(5q), abn(3q26), complex
+             karyotypic abnormalities) or failure to achieve complete remission after standard
+             induction therapy.
+
+          -  All patients with ALL or ANLL in second or subsequent remission or partial remission
+             (<5% blasts in bone marrow as measured by flow cytometry).
+
+          -  All patients with CML in chronic (failed interferon and/or Gleevec) or accelerated
+             phase.
+
+          -  Patients with myelodysplastic syndrome with International Prognostic Scoring System
+             (IPSS) risk category of INT-1 or greater.
+
+          -  Myelofibrosis with myeloid metaplasia
+
+          -  Patients with severe aplastic anemia must have failed immunosuppressive therapy such
+             as cyclosporine plus anti-thymocyte globulin.
+
+          -  Patients with a history of CNS disease must have been treated and have no active CNS
+             disease at the time of protocol treatment.
+
+          -  ECOG performance status <2
+
+          -  Patients must have adequate function of other organ systems as measured by:
+
+          -  Creatinine clearance (by Cockcroft Gault equation [Appendix IV]) > 30ml/min. Hepatic
+             transaminases (ALT/AST) < 4 x normal, bilirubin < 2.0 mg/dl.
+
+          -  Pulmonary function tests demonstrating FVC and FEV1 of >50% of predicted for age and
+             DLCO > 50% of predicted.
+
+          -  Ejection fraction of >45% by echocardiogram, radionuclide scan or cardiac MRI.
+
+          -  Patients must be HIV negative.
+
+          -  Patients must not be pregnant.
+
+         :
+
+          -  Patients with > 5% blasts in bone marrow or peripheral circulation.
+
+          -  Patients with rapidly progressive ANLL or ALL.
+      

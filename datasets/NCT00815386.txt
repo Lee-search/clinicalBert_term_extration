@@ -1,0 +1,52 @@
+Safety and Efficacy Study of the PTMA Device to Reduce Mitral Valve Regurgitation in Patients With Heart Failure 
+      Improvement in heart failure with moderate to severe mitral regurgitation using a
+      percutaneously delivered implantable device residing in the coronary sinus
+     
+      Device under Test: The Viacor® Percutaneous Transvenous Mitral Annuloplasty (PTMA) system
+      comprises a sterile implantable cardiac device and associated custom accessories to assist
+      implantation. The PTMA system is intended to treat functional mitral regurgitation (MR) in a
+      heart failure patient by a less invasive method than surgical annuloplasty with greater
+      relief of symptoms than medical management alone.
+
+      Study Objective: Functional mitral regurgitation is associated with an adverse prognosis in
+      the heart failure patient. The objective of this study is to evaluate whether PTMA is
+      effective in reducing mitral regurgitation in heart failure patients and whether this
+      reduction is associated with a moderation in the adverse progression of heart failure
+      symptoms.
+
+      Hypothesis under Test: Reduction of the severity of functional mitral regurgitation from
+      baseline, as defined by a composite improvement of quantitative echocardiographic metrics,
+      can be achieved safely with the PTMA device and will be associated with a measurable
+      moderation of adverse progression of heart failure symptoms and a moderation of the
+      deterioration of exercise capacity.
+     Mitral Regurgitation :
+
+          -  Patient has moderate functional MR: regurgitant orifice area >/= 0.20cm2 or
+             regurgitant volume >/= 30 mL/beat or regurgitant fraction >/= 30%
+
+          -  Symptomatic heart failure NYHA Class II to IV
+
+          -  LV dysfunction (25% < LVEF < 50% by echocardiography) OR dilated mitral annulus > 30mm
+
+         :
+
+          -  MR of organic origin
+
+          -  Severe mitral leaflet tethering
+
+          -  History of MI or PCI within 60 days of study procedure
+
+          -  Inability to walk a minimum of 100 meters in 6 minutes
+
+          -  Significant left main stenosis or proximal circumflex stent
+
+          -  Indication of non-patent CSO or discontinuous CS-GCV-AIV
+
+          -  Bi-ventricular with leads in CS or other devices impeding device placement
+
+          -  Severe aortic valvular disease
+
+          -  Chronic corticosteroid use other than < 20mg prednisone for arthritis
+
+          -  Significant co-morbidities
+      

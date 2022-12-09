@@ -1,0 +1,164 @@
+Mycobacterial and Opportunistic Infections in HIV-Negative Thai and Taiwanese Patients Associated With Autoantibodies to Interferon-gamma 
+      Opportunistic infections are caused by bacteria, mycobacteria, fungi or viruses that do not
+      normally cause infections in people with healthy immune systems. Some of these infections can
+      cause public health concerns, especially in areas with limited access to treatment. People
+      who acquire opportunistic infections usually have diseases that affect their immune systems,
+      such as human immunodeficiency virus (HIV), or do not have enough white blood cells to fight
+      the infection. However, some people acquire opportunistic infections even though they have
+      normal amounts of white blood cells and are free from known diseases that harm their immune
+      systems. This study will investigate some of the reasons that otherwise healthy people get
+      opportunistic infections to learn more about why some people are more likely to have them.
+
+      This study will include up to 210 HIV-negative males and females older than 18 years of age
+      who have opportunistic infections. The patients will be drawn from multiple sites in Thailand
+      and Taiwan including Khon Kaen University Hospital, Siriraj Hospital, Ramathibodi Hospital,
+      National Taiwan University Hospital, National Cheng-Kung University Hospital
+
+      Patients will undergo an initial evaluation that will include a physical examination, medical
+      history, and blood and urine testing. Additional tests will be conducted if the researchers
+      consider that the tests are medically necessary to treat the opportunistic infection; the
+      results of the tests will be reviewed and saved for study purposes. Depending on the severity
+      of the infection, the initial evaluation may take more than 1 day to complete.
+
+      After the evaluation, patients will be given standard and appropriate medicines to treat the
+      infections.
+
+      Patients will return for follow-up visits to allow researchers to monitor their condition and
+      to assess how well the patient is responding to the treatment. Patients will be evaluated by
+      the study researchers at least once a year for 2 years following the initial treatment.
+
+      ...
+     
+      The acquisition of opportunistic infections has been causally linked to innate and acquired
+      immunodeficiencies. We have recently identified a population of Asian women with
+      autoantibodies to interferon gamma (IFN?), all of whom were diagnosed by virtue of
+      nontuberculous mycobacterial infections. Similar patient populations have been reported from
+      Thailand, and we have found similar autoantibodies in anonymous serum samples from there. In
+      addition, many of the Thai patients who have disseminated or lymphatic nontuberculous
+      infections have had other opportunistic infections (OI), such as salmonella, penicilliosis,
+      and histoplasmosis. However, they have normal lymphocyte counts and are human
+      immunodeficiency virus (HIV) negative. Therefore, the identification of autoantibodies to a
+      critical cytokine, the occurrence of opportunistic infections, and the lack of other common
+      explanations suggests that this is an important population to study. We propose to enroll
+      patients in a natural history study of non-HIV opportunistic infections to explore the
+      presence of autoantibodies to cytokines, and to examine potential immunogenetic factors
+      influencing the development of this disease. Plasma, cells, and DNA samples will be obtained
+      and stored for use in this study. This study will accrue up to 265 patients over 5 years as
+      per the protocol with follow up for 15 years on each patient, sample size justification and
+      the groups described in the protocol.
+     Non-Tuberculous Mycobacteria :
+
+        Patients must meet all of the following criteria at the time of evaluation to be eligible
+        for enrollment into the study cohorts:
+
+        Group 1 (NTM alone):
+
+          1. Past or current infection with NTM proven by culture or specific DNA detection in the
+             presence of a compatible clinical picture as judged by the responsible clinician and
+             PI on site.
+
+          2. NTM is not felt to iatrogenic (such as indwelling catheter associated or
+             post-operative wound infection)
+
+          3. HIV negative within 3 months either prior to the diagnosis of OI, or prior to
+             enrollment in this study, if HIV status was unknown at the time of OI
+
+          4. No evidence of active malignancy
+
+          5. No systemic corticosteroids at time of diagnosis of OI (defined as greater than 4
+             weeks at a dose greater than 10 mg per day of prednisone within 3 months prior to
+             diagnosis of the NTM)
+
+          6. No preexisting immune deficiency
+
+        Group 2 (non-NTM OI with or without NTM):
+
+          1. Patients must have or have had proven infection with one or more of the following
+             organisms: disseminated Salmonella, Listeria, Penicillium, Burkholderia pseudomallei,
+             Cryptococcus, Histoplasma, Herpes zoster involving 2 or more non-contiguous
+             dermatomes, or extradermal involvement or other opportunistic infections not listed
+             above, but relevant, as determined by the PI.
+
+          2. Patient may have infection with NTM in addition to one or more of the above
+             infection(s).
+
+          3. HIV-negative within 3 months either prior to the diagnosis of OI, or prior to
+             enrollment in this study, if HIV status was unknown at the time of OI diagnosis
+
+          4. No evidence of active malignancy
+
+          5. No systemic corticosteroids at time of diagnosis of OI (defined as greater than 4
+             weeks at a dose greater than 10 mg per day of prednisone within 3 months prior to
+             diagnosis of the NTM)
+
+          6. No preexisting immune deficiency
+
+        Group 3 (diseased control with pulmonary MTB):
+
+          1. Active pulmonary MTB, i.e. patients who have sputum that is either culture positive
+             for MTB or AFB positive and responding to therapy for MTB.
+
+          2. Diagnosed with the past 6 months.
+
+          3. No concurrent infections due to NTM or OI listed under above inclusion criteria for
+             study subjects
+
+          4. No clinical evidence of HIV
+
+        Group 4 (diseased control with disseminated MTB):
+
+        Disseminated MTB includes infections involving greater than or equal to 2 noncontiguous
+        sites, one of which may include pulmonary disease or greater than or equal to 2 separate
+        groups of lymph nodes.
+
+          1. Active disseminated MTB or cured disseminated MTB
+
+          2. No concurrent infections due to NTM or OI listed under above inclusion criteria for
+             study subjects
+
+          3. HIV negative within 3 months either prior to the diagnosis of MTB, or prior to
+             enrollment in this study, if HIV status was unknown at the time of MTB diagnosis
+
+          4. No evidence of active malignancy
+
+          5. No systemic corticosteroids at time of diagnosis of OI (defined as > 4 weeks at a dose
+             > 10 mg per day of prednisone within 3 months prior to diagnosis of the NTM)
+
+          6. No preexisting immune deficiency.
+
+        Group 5 (Blood Specimen Donors):
+
+        Eligibility criteria not applicable. Blood will be collected from volunteers, and no
+        medical evaluation will be performed.
+
+        To be a blood donor the person cannot be excluded per the exclusionary criteria:
+
+          1. Patient < 18 or > 85
+
+          2. Weight > 45 kg (99 lbs)
+
+          3. Receiving chemotherapy of have cancer
+
+          4. Receiving immunosuppressant medications
+
+          5. Have a history of heart, lung, kidney disease of bleeding disorder.
+
+         :
+
+        Patients will be excluded for the following reasons:
+
+          1. HIV-positive serostatus for groups 1, 2 and 4 (groups 3 and 5 will not be routinely
+             performing HIV testing)
+
+          2. Active malignancy
+
+          3. Medical conditions requiring immune modulating therapy (i.e. corticosteroids,
+             biological agents, anti-metabolites) and /or chemotherapy
+
+          4. Any other medical conditions unsuitable for this study as determined by the principal
+             investigator
+
+          5. Age less than 18 years
+
+          6. Receiving any other investigational study agents when enrolling on this study.
+      

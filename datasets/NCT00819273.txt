@@ -1,0 +1,23 @@
+Investigation Into the Correlation of Plasma Hs-CRP Concentrations and Cardiovascular Risk in Korean Population 
+      An observational, non-interventional, multi-centre study to provide further information on
+      the utility of test for a predictive marker by investigating the current prevalence of high
+      sensitivity CRP (hs-CRP) testing and characteristics of each CVD risk group.
+     hsCRP :
+
+          -  Subjects with at least one clinic visit record within the last 12 months from the date
+             of data entry.
+
+          -  Subjects with at least one hs-CRP level measured within the last 12 months from the
+             date of data entry.
+
+         :
+
+          -  Use of statins or other lipid-lowering therapies including fibrates, niacin, and bile
+             acid sequestrants in the past 3 months prior to hsCRP measurement
+
+          -  Active inflammatory diseases documented during the period of CRP measurement
+
+          -  Subjects taking immunosuppressants
+
+          -  Findings of chronic inflammation: arthritis, lupus, or inflammatory bowel disease
+      

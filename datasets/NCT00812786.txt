@@ -1,0 +1,56 @@
+Pharmacokinetics of Immunosuppressive Drugs in Heart Transplant Patients 
+      The main objective is to develop pharmacokinetic methods for individual dose adjustment of
+      the global immunosuppressive treatment (cyclosporine, tacrolimus, mycophenolate mofetil and
+      everolimus, taking into account the pharmacokinetic interactions), in order to optimise the
+      efficiency and reduce the potentially severe sides effects of these drugs.
+
+      Forty five heart-transplant patients are to be included in this phase IV study to obtain a
+      minimum of 10 patients treated with tacrolimus-mycophenolate, 10 with
+      cyclosporine-mycophenolate and 20 with everolimus-cyclosporine.
+
+      Ten to 11 blood samples will be collected within the 8 to 12 hours post-dose in each patient
+      and the immunosuppressive drug concentrations will be measured by LC-MS/MS.
+
+      The pharmacokinetic models and Bayesian estimators thus developed will provide tools for
+      individual dose adjustment of immunosuppressive drugs simultaneously, at different
+      post-transplant periods, using the area under the concentration-time curve (AUC) estimated
+      using a limited number of time-points (2 or 3).
+     
+      For each heart transplant patient, 10 to 11 blood samples (5 mL each) will be collected
+      following dosing of he immunosuppressive drugs (at T0, T20', T40', T60', T90', T2h, T3h, T4h,
+      T6h, T8h and T10h + T12h for inpatients), at several post-transplant periods (7 to 15 days, 1
+      month, 3 month and 1 year after transplantation). One more blood sample will be taken at
+      D7-14 for pharmacogenetic analyses.
+     Heart Transplant :
+
+          -  Patient having received of a heart transplant (exclusively) less than 2 weeks before
+             the inclusion date or planned to receive it within days following inclusion.
+
+          -  Patient at least 18 years old, male or female.
+
+          -  Patient treated with one of the following combination : cyclosporine-mycophenolate,
+             tacrolimus-mycophenolate or everolimus- "low-dose" cyclosporine for at least 3 days,
+             and at least 24 hours by the oral route at the time of the first sampling day (between
+             7 and 15 days post-transplant).
+
+          -  Patient included or not in another study, in particular in a therapeutic trial (e.g.
+             comparison between drug combinations).
+
+          -  Patient having given written informed consent for his/her participation to the trial.
+
+         :
+
+          -  Patients in disagreement with the present trial.
+
+          -  Patients suffering from neuro-psychic problems, making them unable to well-understand
+             the protocol or to give a reliable consent.
+
+          -  Patients with previous heart or any other solid organ transplantation.
+
+          -  Patients with double transplantation (heart-lung, heart-kidney or heart-liver)
+
+          -  Patients still intubated and ventilated 15 days post-transplant.
+
+          -  Patients with anaemia between Day 7 and 15, as characterized by hematocrit < 30% or
+             haemoglobin < 9 g/dl.
+      

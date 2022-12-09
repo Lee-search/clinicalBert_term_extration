@@ -1,0 +1,138 @@
+Trial to Determine the Effects of Bardoxolone Methyl on eGFR in Patients With Type 2 Diabetes and Chronic Kidney Disease 
+      This study assesses the effects of bardoxolone methyl (RTA 402) in patients with type 2
+      diabetes and chronic kidney disease.
+     
+      Bardoxolone methyl (RTA 402) is an Antioxidant Inflammation Modulator (AIM) that is
+      undergoing clinical testing in chronic kidney disease (CKD) and cancer. Bardoxolone methyl
+      and other AIMs inhibit immune-mediated inflammation by restoring redox homeostasis in
+      inflamed tissues by inducing the cytoprotective transcription factor Nrf2. In the diabetic
+      population, adipocytes produce cytokines and mobilize free fatty acids which induce insulin
+      resistance. Resultant hyperglycemia and increased cytokine production induces reactive oxygen
+      and nitrogen species which in turn induce vascular inflammation and endothelial dysfunction.
+      This process causes further activation of NF-kB, creating a vicious cycle of inflammation,
+      vasoconstriction, and ischemia, the end result of which is sclerosis in the kidney and
+      coronary arteries. By inducing Nrf2 and suppressing redox-driven inflammation, we hypothesize
+      that this cycle of inflammation and sclerosis can be abrogated.
+
+      Based on Phase IIa data, we hypothesize that bardoxolone methyl will improve renal function
+      through suppression of renal oxidative stress, inflammation and improvement of glomerular
+      filtration.
+     Chronic Kidney Disease :
+
+          1. Male or female patient, at least 18 years of age with known type 2 diabetes, diagnosis
+             of type 2 diabetes should have been made at > 30 years of age (if diabetes developed
+             at a younger age, C-peptide level may be obtained to confirm diagnosis)
+
+          2. The average of two eGFR values collected during screening must be within 20 - 45
+             mL/min/1.73m2, inclusive
+
+          3. Patient must be receiving an angiotensin converting enzyme (ACE) inhibitor and/or an
+             angiotensin II receptor blocker (ARB) for at least 3 months prior to screening, where
+             the dose of the ACE inhibitor or the ARB is considered appropriate for that patient,
+             and has been stable and maintained on that dose for at least 8 weeks prior to the
+             Randomization visit
+
+          4. For male and female subjects, agreement to use effective contraception during the
+             entire study period and for at least 2 months after the last dose of study drug,
+             unless documentation of infertility exists
+
+          5. Women of child-bearing potential, she must have a negative serum pregnancy test at
+             screening and a negative urine pregnancy test confirmed within 72 hours prior to the
+             first dose of study medication
+
+          6. Patient is willing and able to cooperate with all aspects of the protocol
+
+          7. Patient is willing and able to give written informed consent for study participation.
+
+         :
+
+          1. Type 1 (insulin-dependent; juvenile onset) diabetes, or any history of diabetic
+             ketoacidosis
+
+          2. Patients with known non-diabetic renal disease or patients with a history of a renal
+             transplant
+
+          3. Patients with a Hemoglobin A1c >10% collected at the Screening A visit
+
+          4. Cardiovascular disease as follows: Unstable angina pectoris within 3 months prior to
+             study randomization; Myocardial infarction, coronary artery bypass graft surgery, or
+             percutaneous transluminal coronary angioplasty/stent within 3 months prior to study
+             randomization; Transient ischemic attack within 3 months of study randomization;
+             Cerebrovascular accident within 3 months of study randomization; Obstructive valvular
+             heart disease or hypertrophic cardiomyopathy; Diagnosis of Class III or IV congestive
+             heart failure at any time
+
+          5. Systolic blood pressure (BP) >160 mmHg and diastolic blood pressure > 90 determined by
+             the average of three seated readings taken at least 5 minutes apart, at each of two
+             time-points at least 5 days apart during the screening period
+
+          6. QTc Fredericia interval > 450 milliseconds determined by the average of values
+             reported by a central reader from three ECGs taken at the Screening A visit. Each of
+             the three ECGs will be obtained using only equipment provided by the Sponsor, and the
+             ECGs shall be obtained at least ten minutes apart.
+
+          7. Second or third degree atrioventricular block not successfully treated with a
+             pacemaker
+
+          8. Need for chronic (>2 weeks) immunosuppressive therapy, or need for corticosteroids
+             (excluding intraarticular injections,inhaled or nasal steroids) within 3 months of
+             study randomization
+
+          9. Evidence of hepatic or biliary dysfunction including total bilirubin >1.0 mg/dL (>17
+             micromol/L), aspartate aminotransferase (AST) or alanine aminotransferase (ALT) >
+             upper limit of normal (ULN), or alkaline phosphatase >2.0 ULN on ANY screening lab
+
+         10. If female, patient is pregnant, nursing or planning a pregnancy
+
+         11. Patient has any concurrent clinical conditions that in the judgment of the
+             investigator could either potentially pose a health risk to the patient while involved
+             in the study or could potentially influence the study outcome
+
+         12. Patient has known hypersensitivity to any component of the study drug
+
+         13. Patient has undergone a diagnostic or interventional procedure requiring a contrast
+             agent within 30 days prior to randomization
+
+         14. Change or dose adjustment in any of the following medications within 8 weeks prior to
+             randomization into the study or anticipated change in dose within 30 days following
+             randomization into the study: ACE inhibitors, angiotensin II receptor blockers.
+
+         15. Change or dose adjustment of any other anti-hypertensive, and other anti-diabetic
+             medications within 8 weeks prior to randomization or anticipated change in dose within
+             30 days following randomization into the study
+
+         16. Patient has a current history of drug or alcohol abuse as per the investigator's
+             assessment
+
+         17. Patient has participated in another investigational study within 30 days prior to
+             randomization into the study or would concomitantly participate in such a study, or
+             has previously participated in a trial involving bardoxolone methyl.
+
+         18. Patient is unable to communicate or cooperate with the investigator due to language
+             problems, poor mental development or impaired cerebral function
+
+         19. Patient is unable or unwilling to utilize the daily phone diary to track the date and
+             time they take their study medication
+
+         20. Patients on any of the following known hepatotoxic agents: Antioxidant
+             N-acetly-cysteine (Mucomyst, Acetadote, Fluimucil, Parvolex), Niacin (nicotinic acid),
+             Dantrium (dantrolene), Naizide (isoniazid), Normodyne (labetalol), Cylert (pemoline),
+             Felbatol (felbamate), Zyflo (zileuton), Tasmar (tolcapone), or Trovan (trovafloxacin).
+             Patients must have been off the aforementioned medications for a minimum of two weeks
+             prior to randomization
+
+         21. Patients who are unable or unwilling to discontinue fenofibrate (Antara, Fenoglide,
+             Lipofen, Lofibra, TriCor, Triglide) during the first three months of study treatment.
+             Patients must have been off fenofibrate for a minimum of two weeks prior to
+             randomization
+
+         22. Patients who require more than occasional (once or twice weekly) use of non-steroidal
+             anti-inflammatory agents (NSAIDS)
+
+         23. Patients with a history of neoplastic disease (except basal or squamous cell carcinoma
+             of the skin) within 5 years prior to the randomization visit;
+
+         24. Patients who have had prior dialysis within three months of randomization and/or have
+             not maintained a stable level of kidney function within three months of randomization
+             per Investigator assessment
+      

@@ -1,0 +1,42 @@
+Evaluation of a Novel Method for Integrating Insulin Delivery and Glucose Sensing in Adipose Tissue of Diabetic Patients 
+      The study seeks to use microdialysis and microperfusion techniques to assess the feasibility
+      of performing insulin delivery and glucose sensing at a single subcutaneous tissue site.
+     
+      Glucose management in type 1 diabetic patients comprises the measurement of glucose in
+      capillary blood obtained by fingersticking and administration of exogenous insulin in the
+      form of a subcutaneous bolus injection or continuous subcutaneous infusion.
+
+      The present study seeks to test an alternative treatment approach that combines glucose
+      measurement and insulin delivery at a single subcutaneous tissue site, thereby circumventing
+      the need for fingerstick blood glucose monitoring. Microperfusion and microdialysis probes
+      are applied in type 1 diabetic subjects to perform insulin delivery and glucose sampling at
+      the same adipose tissue site. The feasibility of estimating blood glucose concentrations from
+      the glucose levels measured at the subcutaneous insulin delivery site is then assessed during
+      an overnight fast and an oral glucose tolerance test.
+     Type 1 Diabetes :
+
+          -  Type 1 diabetes mellitus patients aged 18 - 65
+
+          -  C-peptide negative (≤ 0.05 nmol/L)
+
+          -  HbA1c (glycosylated haemoglobin A1c) < 10%
+
+          -  Body Mass Index: 21 - 30 kg/m2
+
+          -  Informed consent obtained before any trial-related activities.
+
+         :
+
+          -  Severe diabetic complications (e.g., proliferative retinopathy, severe nephropathy)
+
+          -  Female of childbearing potential who is pregnant, breast-feeding or intends to become
+             pregnant or is not using adequate contraceptive methods
+
+          -  Any condition that would interfere with trial participation or evaluation of results,
+             as judged by the investigator
+
+          -  Treatment with drugs that could interfere with glucose metabolism and subcutaneous
+             insulin absorption
+
+          -  Subject with mental incapacity or language barriers
+      

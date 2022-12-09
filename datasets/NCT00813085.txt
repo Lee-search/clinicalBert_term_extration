@@ -1,0 +1,18 @@
+A Randomized Trial of Electronic Integration of Care for Better Diabetes Outcomes; The COMPETE II Study 
+      This study will evaluate whether the use of an electronic diabetes tracker by both patients
+      and family physicians in Ontario improves diabetes outcomes, satisfaction with care and with
+      technology and health data privacy issues. As part of the study, the investigators will be
+      able to test whether practices that use computers perform any better than practices using
+      paper. The investigators also will be developing the first Canadian computerized chart
+      summary for each patient that can be communicated securely in emergencies (the Emergency
+      Health Record) and read by all current electronic systems.
+     Diabetes :
+
+          -  Adult, cognitively intact, consenting people with diabetes within enrolled practices
+
+         :
+
+          -  Non-english speaking
+
+          -  Cognitively impaired
+      

@@ -1,0 +1,35 @@
+Evaluation of Left Ventricular AutoThreshold 
+      This study will collect data on a new feature for future heart failure devices via an
+      external non-implantable system.
+     
+      ELEVATE is an acute, prospective, multi-center, feasibility study with a randomized within
+      patient test sequence and pulse width, designed to characterize the performance of the Left
+      Ventricular Auto Threshold feature.
+     Heart Failure :
+
+          -  Patients who are scheduled to receive a CRT-P or CRT-D, based on physician discretion
+
+          -  Patients who are willing and capable of participating in all testing associated with
+             this study
+
+          -  Patients who are 18 or above, or of legal age to give informed consent specific to
+             state and national law
+
+         :
+
+          -  Patients who have, or are scheduled to receive a unipolar LV pace/sense lead to be
+             used with the CRT-P/CRT-D device, unless the patient has any commercially available
+             epicardial leads with at least two electrodes (from one or more leads)
+
+          -  Patients with pre-existing leads other than those specified in this investigational
+             plan (unless the Investigator intends to replace them with permitted leads)
+
+          -  Patients with a pre-existing unipolar pacemaker that will not be explanted/abandoned
+
+          -  Patients enrolled in any concurrent study, without Boston Scientific CRM written
+             approval, that may confound the results of this study
+
+          -  Patients with a prosthetic mechanical tricuspid heart valve
+
+          -  Women who are pregnant
+      

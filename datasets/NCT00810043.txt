@@ -1,0 +1,65 @@
+Medtronic SCORE Study - Study of Curette Use for Obtaining Restoration of Vertebral Body Anatomy in Balloon Kyphoplasty 
+      The objective of this study is to measure the effect that the scraping and scoring of
+      vertebral cancellous bone using the Kyphon® Curette has on vertebral body anatomy height
+      restoration and angular deformity correction during a balloon kyphoplasty procedure.
+     Vertebral Body Compression Fractures (VCFs) :
+
+          -  Age >= 50 years
+
+          -  One painful VCF meeting all of the following criteria:
+
+               -  Fracture due to diagnosed or suspected underlying primary or secondary
+                  osteoporosis
+
+               -  VCF is between T5 and L5
+
+               -  VCF shows hyperintense signal on STIR or T2 weighted MRI
+
+               -  VCF has at least 15% height loss as visualized on plain radiograph
+
+               -  Identified painful VCF has at least superior and one normal vertebrae within 2
+                  levels inferior.
+
+               -  Either the immediate superior OR the immediate inferior vertebral body (but not
+                  both) may have a chronic fracture that does not need treatment.
+
+          -  Patient states availability for all study visits
+
+          -  Patient is able to understand the risks and benefits of participating in the study and
+             is willing to provide written informed consent
+
+         :
+
+          -  Patient is unable to undergo MRI
+
+          -  Patient shows evidence of edema in vertebral bodies other than index level on MRI
+
+          -  Patient is unable to stand for pre-operative and post-operative x-rays
+
+          -  Patient body mass index (BMI) is greater than 35 kg/m2
+
+          -  Patient is pregnant, or of child-bearing potential and not using contraception
+
+          -  Vertebral body (VB) morphology or configuration is such that balloon kyphoplasty is
+             not technically feasible or clinically appropriate for the index VCF
+
+          -  Index fracture is result of high-energy trauma
+
+          -  Suspected or proven cancer inside any VB
+
+          -  Disabling back pain due to causes other than acute fracture
+
+          -  Spine stabilization beyond balloon kyphoplasty required for index VCF
+
+          -  Pre-existing conditions contrary to balloon kyphoplasty, such as:
+
+               -  Irreversible coagulopathy or bleeding disorder. Note that patients on Coumadin or
+                  other anticoagulants may participate. Investigators should follow routine
+                  practices for perioperative discontinuation and re-initiation of anticoagulants.
+
+               -  Allergy to any device materials (e.g., bone cement) for balloon kyphoplasty. Note
+                  that in patients with allergy to iodine-based contrast, other marketed approved
+                  non-iodine contrast solutions may be used.
+
+               -  Any evidence of VB or systemic infection
+      

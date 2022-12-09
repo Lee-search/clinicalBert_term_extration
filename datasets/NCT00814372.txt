@@ -1,0 +1,54 @@
+Evaluate Safety and Effectiveness of MBX-102 in Type 2 Diabetes Patients With Poor Glycemic Control on Metformin 
+      To define the relative efficacy, safety and tolerability profiles of oral daily MBX-102 at
+      daily doses of 400 and 600 mg vs. placebo and Actos® 30 mg (up-titrated to 45 mg after 8
+      weeks) when administered for up to 24 weeks in patients inadequately controlled with a stable
+      dose of metformin (≥ 1500 mg/day).
+     
+      Approximately 240 patients will be randomized in this study, 60 to each of two MBX-102
+      treatment groups (400 and 600 mg daily), 60 to placebo, and 60 to the Actos® group. Patients
+      in the Actos® group will receive Actos® 30 mg/daily for the first eight weeks of the
+      treatment phase and Actos® 45 mg/daily for the last 16 weeks of the treatment phase. Patients
+      in the MBX-102 400 mg group and MBX-102 600 mg group will continue MBX-102 400 mg and 600 mg,
+      respectively for the full 24 weeks. All study medication will be over-encapsulated; thus,
+      each patient will take two blinded capsules each day containing either placebo, MBX-102 or
+      Actos®. This sample size provides the minimum number expected to ensure a power of at least
+      90% in detecting a difference of 0.64% in HbA1c between the placebo and experimental
+      treatment, using a two-tailed, two-sample t-test with type 1 error of 0.05, when the pooled
+      standard deviation is ≤ 1.0%, and the discontinuation rate is ≤ 12.5%.
+     Type 2 Diabetes Mellitus :
+
+          -  Patients with type 2 diabetes who have been on metformin for the last 6 months and are
+             taking a stable dose of metformin (≥ 1500 mg/d) as monotherapy for at least the last 3
+             months
+
+          -  Male or female, 18-70 years of age
+
+          -  All female patients must be surgically sterile or post-menopausal (at least 40 years
+             of age with no history of menses for at least 2 years; or any age with no history of
+             menses for at least 6 months and serum FSH ≥ 40 mIU/mL) or must agree to use two
+             medically accepted methods of contraception including a barrier method. Depo
+             contraceptives are excluded.
+
+          -  Female patients must not be pregnant or lactating
+
+          -  BMI ≥ 26 (patients of Asian Indian origin ≥ 22) kg/m2
+
+          -  HbA1c ≥ 7.5%, ≤ 10.5%
+
+          -  FPG ≥ 120 mg/dL, ≤ 240 mg/dL
+
+         :
+
+          -  History of diabetes secondary to pancreatitis or pancreatectomy
+
+          -  Any history of ketoacidosis
+
+          -  History of insulin use within last one year (insulin use while hospitalized is
+             acceptable)
+
+          -  Weight loss > 10 pounds in the three months prior to screening visit
+
+          -  History of TZD use (Actos® or Avandia®) within 6 months of screening visit
+
+          -  History of TZD discontinuation due to side effect or lack of efficacy
+      

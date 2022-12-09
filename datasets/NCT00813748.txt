@@ -1,0 +1,20 @@
+Pharmacosurveillance Data Repository of Patients With and Without History of Anaphylactic Reactions Subsequent to Xolair Dosing 
+      This study will establish a clinical data and serum repository of anaphylaxis cases
+      associated with Xolair administration and control patients who have received Xolair without
+      associated anaphylaxis. This is an observational repository and not an investigational
+      clinical trial. Associated with the repository is an optional skin testing substudy.
+     Allergic Asthma  for Cases:
+
+          -  Confirmed anaphylaxis based on Sampson criteria subsequent to Xolair
+
+        Inclusion Criteria for Controls:
+
+          -  At least 1 patient control among 4 controls who discontinued Xolair for at least 16
+             weeks but not more than 18 months at enrollment
+
+          -  At least one dose of Xolair in the 18 months before the date of the case event (index
+             date)
+
+          -  No prior anaphylaxis or other hypersensitivity reaction subsequent to Xolair dosing,
+             including any reactions to its components
+      
